@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		188C068924A2A44400DD9E62 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188C068824A2A44400DD9E62 /* ViewController.swift */; };
 		AEB577BE248C4FE6001F96D0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEB577BD248C4FE6001F96D0 /* AppDelegate.swift */; };
 		AEB577C0248C4FE6001F96D0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEB577BF248C4FE6001F96D0 /* SceneDelegate.swift */; };
 		AEB577C2248C4FE6001F96D0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEB577C1248C4FE6001F96D0 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		188C068824A2A44400DD9E62 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = ../../../hw2ios/ViewController.swift; sourceTree = "<group>"; };
 		AEB577BA248C4FE6001F96D0 /* iOSHomework2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSHomework2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEB577BD248C4FE6001F96D0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AEB577BF248C4FE6001F96D0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				AEB577BD248C4FE6001F96D0 /* AppDelegate.swift */,
 				AEB577BF248C4FE6001F96D0 /* SceneDelegate.swift */,
 				AEB577C1248C4FE6001F96D0 /* ViewController.swift */,
+				188C068824A2A44400DD9E62 /* ViewController.swift */,
 				AEB577C3248C4FE6001F96D0 /* Main.storyboard */,
 				AEB577C6248C4FE8001F96D0 /* Assets.xcassets */,
 				AEB577C8248C4FE8001F96D0 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				AEB577C2248C4FE6001F96D0 /* ViewController.swift in Sources */,
 				AEB577BE248C4FE6001F96D0 /* AppDelegate.swift in Sources */,
+				188C068924A2A44400DD9E62 /* ViewController.swift in Sources */,
 				AEB577C0248C4FE6001F96D0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
